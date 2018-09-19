@@ -21,10 +21,10 @@ module Mobylette
         ios3:     %r{(iphone|ipad)\s+os\s+3_},
         ios4:     %r{(iphone|ipad)\s+os\s+4_},
         ios5:     %r{(iphone|ipad)\s+os\s+5_},
-        ios6:     %r{(iphone|ipad)\s+os\s+6_}
-        ios7:     %r{(iphone|ipad)\s+os\s+7_}
-        ios8:     %r{(iphone|ipad)\s+os\s+8_}
-        ios9:     %r{(iphone|ipad)\s+os\s+9_}
+        ios6:     %r{(iphone|ipad)\s+os\s+6_},
+        ios7:     %r{(iphone|ipad)\s+os\s+7_},
+        ios8:     %r{(iphone|ipad)\s+os\s+8_},
+        ios9:     %r{(iphone|ipad)\s+os\s+9_},
         ios10:     %r{(iphone|ipad)\s+os\s+10_}
       }
     end
