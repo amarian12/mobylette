@@ -9,6 +9,11 @@ module Mobylette
         android2: %r{android\s+2\.}i,
         android3: %r{android\s+3\.}i,
         android4: %r{android\s+4\.}i,
+        android5: %r{android\s+5\.}i,
+        android6: %r{android\s+6\.}i,
+        android7: %r{android\s+7\.}i,
+        android8: %r{android\s+8\.}i,
+        android9: %r{android\s+9\.}i,
         android_phone: %r{android.*mobile}i,
         iphone:   %r{iphone}i,
         ipad:     %r{ipad}i,
@@ -17,6 +22,10 @@ module Mobylette
         ios4:     %r{(iphone|ipad)\s+os\s+4_},
         ios5:     %r{(iphone|ipad)\s+os\s+5_},
         ios6:     %r{(iphone|ipad)\s+os\s+6_}
+        ios7:     %r{(iphone|ipad)\s+os\s+7_}
+        ios8:     %r{(iphone|ipad)\s+os\s+8_}
+        ios9:     %r{(iphone|ipad)\s+os\s+9_}
+        ios10:     %r{(iphone|ipad)\s+os\s+10_}
       }
     end
 
