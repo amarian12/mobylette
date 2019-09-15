@@ -29,7 +29,8 @@ module Mobylette
         ios9:     %r{(iphone|ipad)\s+os\s+9_},
         ios10:     %r{(iphone|ipad)\s+os\s+10_},
         ios11:     %r{(iphone|ipad)\s+os\s+11_},
-        ios12:     %r{(iphone|ipad)\s+os\s+12_}
+        ios12:     %r{(iphone|ipad)\s+os\s+12_},
+        ios13:     %r{(iphone|ipad)\s+os\s+13_}
       }
     end
 
